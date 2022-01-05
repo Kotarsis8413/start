@@ -19,3 +19,6 @@
 
 
 [ploudos](https://ploudos.com/en/)
+
+
+[yandex](https://yandex.ru/)
