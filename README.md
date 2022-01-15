@@ -23,7 +23,7 @@
 
 [yandex](https://yandex.ru/)
 
-[настройка бота дискорд](https://dashboard.botghost.com/dashboard/autoresponder)
+[файл для поступления в PythonKote](https://disk.yandex.ru/d/61wSZKuSjwONZg)
 
 
 
